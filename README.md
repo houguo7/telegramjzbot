@@ -1,7 +1,9 @@
 # telegramjzbot
 telelegram记账机器人 tg记账机器人 记账机器人 记账bot 
 
-作者： @houguo   两天时间写的一个简单机器人，全部功能完美使用
+telelegram记账机器人 tg记账机器人 记账机器人 记账bot 
+
+源码作者： @houguo   两天时间写的一个简单机器人，全部功能完美使用
 
 ![图片](https://github.com/user-attachments/assets/375f475f-9c63-4492-9e70-2a08048dbf7f)
 ![图片](https://github.com/user-attachments/assets/47bd4751-9432-4315-bf64-d39e8378b8f3)
